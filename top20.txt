@@ -1,1 +1,14 @@
 
+qocu.cf.3666888.xyz:443#优选域名1
+youxuan.cf.090227.xyz:443#优选域名2
+bbs.alipansou.com:443#优选域名3
+youxuan1.cf.090227.xyz:443#优选域名4
+cf2.tencentapp.cn:443#优选域名5
+cf1.tencentapp.cn:443#优选域名6
+saas.sin.fan:443#优选域名7
+youxuan2.cf.090227.xyz:443#优选域名8
+cfsaas.080112.xyz:443#优选域名9
+freeyx.cloudflare88.eu.org:443#优选域名10
+www.755gaoyi.cc.cd:443#优选域名11
+ex.warspite.dpdns.org:443#优选域名12
+staticdelivery.nexusmods.com:443#优选域名13
