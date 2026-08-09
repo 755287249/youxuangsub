@@ -3,14 +3,12 @@ youxuan.cf.090227.xyz:443#090227-02
 youxuan1.cf.090227.xyz:443#090227-03
 youxuan2.cf.090227.xyz:443#090227-04
 bestcf.top:443#BestCF
-www.jimdo.com:443#Jimdo
 ex.warspite.dpdns.org:443#Warspite
 store.ubi.com:443#UBI
 cmcc.cc.cd:443#CMCC
 cfsaas.080112.xyz:443#080112
 cdn.555586.xyz:443#555586
 test.509666.xyz:443#509666
-youxuan.cf.cname.vvhan.com:443#VVHAN
 cdn.2020111.xyz:443#2020111
 cfip.1323123.xyz:443#1323123
 cnamefuckxxs.yuchen.icu:443#Yuchen
