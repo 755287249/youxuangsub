@@ -8,9 +8,7 @@ cdn.555586.xyz:443#555586
 cdn.tzpro.xyz:443#TZPRO
 cfip.1323123.xyz:443#1323123
 cfsaas.080112.xyz:443#080112
-cmcc.cc.cd:443#CMCC
 cnamefuckxxs.yuchen.icu:443#Yuchen
 ex.warspite.dpdns.org:443#Warspite
 store.ubi.com:443#UBI
-test.509666.xyz:443#509666
 xn--b6gac.eu.org:443#B6GAC
