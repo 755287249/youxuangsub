@@ -1,14 +1,9 @@
-cf.090227.xyz:443#090227-01
-youxuan.cf.090227.xyz:443#090227-02
-youxuan1.cf.090227.xyz:443#090227-03
-youxuan2.cf.090227.xyz:443#090227-04
 bestcf.top:443#BestCF
 cdn.2020111.xyz:443#2020111
 cdn.tzpro.xyz:443#TZPRO
 cfip.1323123.xyz:443#1323123
 cnamefuckxxs.yuchen.icu:443#Yuchen
 ex.warspite.dpdns.org:443#Warspite
-172.64.229.7:443#49.13MB/s-NRT
 162.159.144.196:443#23.29MB/s-FRA
 91.110.209.76:443#20.21MB/s-HKG
 104.18.223.253:443#10.42MB/s-LAX
