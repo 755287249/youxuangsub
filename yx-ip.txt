@@ -4,9 +4,6 @@ cdn.tzpro.xyz:443#TZPRO
 cfip.1323123.xyz:443#1323123
 cnamefuckxxs.yuchen.icu:443#Yuchen
 ex.warspite.dpdns.org:443#Warspite
-162.159.144.196:443#23.29MB/s
-91.110.209.76:443#20.21MB/s
-104.18.223.253:443#10.42MB/s
 172.64.229.20:443#NRT
 172.64.229.231:443#NRT
 172.64.229.111:443#NRT
